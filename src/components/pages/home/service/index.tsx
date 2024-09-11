@@ -1,5 +1,5 @@
 import React from 'react';
-import servicesData from '@/content/pages/services/serviceData'; // Adjust the import path if needed
+import servicesData from '@/content/pages/services/serviceData';
 
 const Services = () => {
   return (
